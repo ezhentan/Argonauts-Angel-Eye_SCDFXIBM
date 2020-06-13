@@ -37,5 +37,7 @@ SCDF x IBM Hackathon submission for Team Argonauts
 # How will you use the software?
 
 
-
 # What we used
+1. IBM Cloudant Image Localisation
+2. Watson Assistant Machine Learning
+3. Cloud Object Storage
