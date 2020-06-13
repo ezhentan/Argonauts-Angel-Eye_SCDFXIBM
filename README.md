@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify:
+ }
+ </style>
+
 # Argonauts-Solution_SCDFXIBM
 SCDF x IBM Hackathon submission for Team Argonauts
 
