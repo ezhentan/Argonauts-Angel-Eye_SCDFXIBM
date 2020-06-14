@@ -58,10 +58,10 @@ According to a news article published by [The Straits Times](https://www.straits
       <li>Overturned-Light Vehicle</li>
       <li>Overturned-Heavy Vehicle</li>
     </ul>
-<weak>It is recommended to have at least 50 images for each object as it will allow the machine to detect and discern accidents more accurately.</weak><br>
+<i>It is recommended to have at least 50 images for each object as it will allow the machine to detect and discern accidents more accurately.</i><br>
   <li>Train the model</li>
   <li>Test the model with a new batch of images that is different from the images used for training</li>
-<weak>This is to ensure the accuracy of the model even with unseen data.</weak>
+<i>This is to ensure the accuracy of the model even with unseen data.</i>
   <li>Deployment and integration of the model to our solution</li>
 </ol>
 
