@@ -80,12 +80,9 @@ According to a news article published by [The Straits Times](https://www.straits
 
 # What we used
 <ol>
-  <li>IBM Cloudant Image Localisation</li>
-    <ul>
-      <li>for labelling the type of accidents</li>
-     </ul>
   <li>IBM Watson Visual Recognition</li>
     <ul>
+      <li>for labelling the type of accidents</li>
       <li>for labelling the traffic flow in the images captured by traffic cameras</li>
      </ul>
   <li>Watson Assistant Machine Learning</li>
