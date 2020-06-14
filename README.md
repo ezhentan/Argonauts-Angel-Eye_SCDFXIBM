@@ -25,21 +25,25 @@ According to a news article published by [The Straits Times](https://www.straits
 
 <p align="justify">Using IBM's Cloud Annotations Artificial Intelligience and IBM's Watson Machine Learning, we are able to prepare training data and create a machine learning instance. The model will be trained to identify road accidents and classify them according to the different types of accidents. Once the model detects an accident that requires SCDF's assistance, an alert will be sent to SCDF to notify them about the situation. They can then dispatch the nearest SCDF unit to attend to the situation. Together with the data from the traffic cameras and conditions, the system can also map out the fastest possible route to the accident and the fastest route to the nearest hospital if necessary. Using the Green Link Determining (GLIDE) System and traffic cameras, SCDF can link up the traffic lights to provide a clear path of the "green wave" to allow smoother traffic for emergency response vehicles.</p> 
 
-[Back to top](#Table-of-Contents)
+[Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # Pitch Video
 
+[Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # Architecture of Proposed Solution
 
 ![](https://github.com/ezhentan/Argonauts-Solution_SCDFXIBM/blob/master/Images%20for%20README/IMG_0191.jpg)
 
+[Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # Detailed Solution
 
+[Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # How will you use the software?
 
+[Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # What we used
 <ol>
@@ -48,3 +52,5 @@ According to a news article published by [The Straits Times](https://www.straits
   <li>Cloud Object Storage</li>
   <li>IBM Watson Visual Recognition</li>
 </ol>
+
+[Back to top](#Argonauts-Solution_SCDFXIBM)
