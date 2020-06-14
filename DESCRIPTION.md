@@ -1,5 +1,5 @@
 # Submission name
-Argonauts: Singapore's God Eye_SCDFXIBM
+Argonauts: Angel's Eye_SCDFXIBM
 
 ## Section 1
 **Identifying Accidents Using Object Detection**
