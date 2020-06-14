@@ -34,7 +34,7 @@ According to a news article published by [The Straits Times](https://www.straits
 
 # Architecture of Proposed Solution
 
-![](https://github.com/ezhentan/Argonauts-Solution_SCDFXIBM/blob/master/Images%20for%20README/IMG_91B4CC5184F6-1.jpeg)
+![](https://github.com/ezhentan/Argonauts-Solution_SCDFXIBM/blob/master/Images%20for%20README/IMG_C8A0680A8E89-1.jpeg)
 
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
