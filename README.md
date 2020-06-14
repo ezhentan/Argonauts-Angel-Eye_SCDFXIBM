@@ -65,6 +65,17 @@ According to a news article published by [The Straits Times](https://www.straits
   <li>Deployment and integration of the model to our solution.</li>
 </ol>
 
+<strong>Second function: Traffic Accident Monitor</strong>
+<ol>
+  <li>Go to IBM Cloud and create the IBM Watson Studio service. </li>
+  <li>Create New Project and add Watson – Visual Recognition as an Associated service.  </li>
+  <li>Create a Visual Recognition model  </li>
+  <li>Upload some images of Traffic congestion in Singapore and train the model. </li>
+  <li>In our case, we will be using the traffic images on live traffic conditions from Land Transport Authority (LTA) to analyze congestion live.   </li>
+  <li> Use the lve traffic images to test the model </li>
+  <li>Deployment and integration of the model to our solution.</li>
+</ol>
+
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # What we used
