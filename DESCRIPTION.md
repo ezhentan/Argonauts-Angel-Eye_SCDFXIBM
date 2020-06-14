@@ -1,5 +1,5 @@
 # Submission name
-Argonauts: Bird's Eye View_SCDFXIBM
+Argonauts: Singapore's God Eye_SCDFXIBM
 
 ## Section 1
 **Identifying Accidents Using Object Detection**
@@ -16,6 +16,7 @@ Source: https://sgtrafficwatch.org/#
 
 ### Subsection 1.2
 <p align="justify">We will use our custom-trained models to detect serious accidents that require emergency response from SCDF. Using IBM Cloud Object Storage instance, we will store 200 images of different road accidents with different labels to prepare the data for training. There will be **five** main categories of major accidents:</p>
+
 1. Vehicle on fire/smoking
 2. Overturned Light Vehicle (Car/Van/Small Truck)
 3. Overturned Heavy Vehicle (Large Trucks/Container)
