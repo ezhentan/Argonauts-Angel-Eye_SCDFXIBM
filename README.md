@@ -44,7 +44,7 @@ According to a news article published by [The Straits Times](https://www.straits
 # What we used
 <ol>
   <li>IBM Cloudant Image Localisation</li>
+  <li>Watson Assistant Machine Learning</li>
+  <li>Cloud Object Storage</li>
+  <li>IBM Watson Visual Recognition</li>
 </ol>
-2. Watson Assistant Machine Learning
-3. Cloud Object Storage
-4. IBM Watson Visual Recognition
