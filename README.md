@@ -67,7 +67,7 @@ According to a news article published by [The Straits Times](https://www.straits
   <li>Deployment and integration of the model to our solution.</li>
 </ol>
 
-<strong>Second function: Traffic Accident Monitor</strong>
+<strong>Second function: Traffic Congestion Monitor</strong>
 <i>(Model ID: e3a40bc3-3aee-451f-93ab-2d7e31a1e690)</i><br>
 <ol>
   <li>Go to IBM Cloud and create the IBM Watson Studio service. </li>
@@ -75,7 +75,7 @@ According to a news article published by [The Straits Times](https://www.straits
   <li>Create a Visual Recognition model  </li>
   <li>Upload some images of Traffic congestion in Singapore and train the model. </li>
   <li>In our case, we will be using the traffic images on live traffic conditions from Land Transport Authority (LTA) to analyze congestion live.   </li>
-  <i>Refer to "" for code</i><br>
+  <i>Refer to "traffic_congestion_monitor.py" for code</i><br>
   <li> Use the live traffic images to test the model </li>
   <li>Deployment and integration of the model to our solution.</li>
 </ol>
