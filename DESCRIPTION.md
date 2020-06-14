@@ -7,7 +7,7 @@ Identifying Accidents Using Object Detection
 ### Subsection 1.1
 To start off, we can identify the traffic camera locations in Singapore and the accident prone areas. Using an overlay on a map, we should be able to see where are the overlaps in areas lacking traffic cameras to monitor the roads. Currently only major expressways have traffic cameras installed to monitor traffic conditions. 
 
-![Traffic Camera Locations in Singapore](https://ibb.co/F6LSsJj][img]https://i.ibb.co/6Y73vbf/Screenshot-2020-06-14-at-12-02-27-PM.png)
+![Traffic Camera Locations in Singapore](https://i.ibb.co/6Y73vbf/Screenshot-2020-06-14-at-12-02-27-PM.png)
 
 For example, Lornie Highway was identified as an accident prone road as it faces heavy traffic during peak hours where there have been many past accidents. However, they do not have a traffic camera installed along that stretch. Other examples may include silver zones where there have been past accidents involving elderly pedestrians. This mapping of traffic cameras can help us better understand which are more vulnerable areas which require more attention from SCDF in the event of a major accident. 
 
