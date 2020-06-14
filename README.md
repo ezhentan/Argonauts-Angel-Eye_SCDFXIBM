@@ -29,7 +29,7 @@ According to a news article published by [The Straits Times](https://www.straits
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # Pitch Video
-![Watch the video]https://github.com/ezhentan/Argonauts-Angel-Eye_SCDFXIBM/blob/master/Images%20for%20README/scdf_thumbnail.jpg
+![Watch the video](https://github.com/ezhentan/Argonauts-Angel-Eye_SCDFXIBM/blob/master/Images%20for%20README/scdf_thumbnail.jpg)
 
 Click to watch:
 https://youtu.be/qCy-zFLY3UY
