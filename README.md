@@ -72,7 +72,7 @@ According to a news article published by [The Straits Times](https://www.straits
   <li>Create a Visual Recognition model  </li>
   <li>Upload some images of Traffic congestion in Singapore and train the model. </li>
   <li>In our case, we will be using the traffic images on live traffic conditions from Land Transport Authority (LTA) to analyze congestion live.   </li>
-  <li> Use the lve traffic images to test the model </li>
+  <li> Use the live traffic images to test the model </li>
   <li>Deployment and integration of the model to our solution.</li>
 </ol>
 
