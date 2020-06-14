@@ -50,7 +50,7 @@ According to a news article published by [The Straits Times](https://www.straits
   <li>Create the IBM Watson Studio and add in the visual recognition service.</li>
   <li>Launch the Visual Recognition Tool and create an Object Detection Model.</li>
   <li>Upload images into the model.</li>
-  <li>Set the labels for each image. For our model we have 5 labels.</li>
+  <li>Set the labels for each image. For our model we have 5 labels. (Model ID: 7a0c9c0c-e820-4aa8-9f80-84d1405a9282)</li>
     <ul>
       <li>Crashed-Vehicle</li>
       <li>Crashed-Motorcycle</li>
