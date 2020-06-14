@@ -29,6 +29,7 @@ According to a news article published by [The Straits Times](https://www.straits
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # Pitch Video
+[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
