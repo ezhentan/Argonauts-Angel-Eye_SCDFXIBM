@@ -1,4 +1,4 @@
-# Argonauts-Solution_SCDFXIBM
+# Argonauts-Angel Eye_SCDFXIBM
 SCDF x IBM Hackathon submission for Team Argonauts
 
 # Table of Contents
