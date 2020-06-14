@@ -39,7 +39,7 @@ According to a news article published by [The Straits Times](https://www.straits
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # Detailed Solution
-[More detail is available here](DESCRIPTION.md)
+[More details are available here](DESCRIPTION.md)
 
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
