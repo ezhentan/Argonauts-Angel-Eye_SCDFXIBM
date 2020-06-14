@@ -46,11 +46,12 @@ According to a news article published by [The Straits Times](https://www.straits
 # How will you use the software?
 
 <strong>First function: Traffic Accident Monitor</strong>
+<i>(Model ID: 7a0c9c0c-e820-4aa8-9f80-84d1405a9282)</i><br>
 <ol>
   <li>Create the IBM Watson Studio and add in the visual recognition service.</li>
   <li>Launch the Visual Recognition Tool and create an Object Detection Model.</li>
   <li>Upload images into the model.</li>
-  <li>Set the labels for each image. For our model we have 5 labels. (Model ID: 7a0c9c0c-e820-4aa8-9f80-84d1405a9282)</li>
+  <li>Set the labels for each image. For our model we have 5 labels.</li>
     <ul>
       <li>Crashed-Vehicle</li>
       <li>Crashed-Motorcycle</li>
@@ -66,6 +67,7 @@ According to a news article published by [The Straits Times](https://www.straits
 </ol>
 
 <strong>Second function: Traffic Accident Monitor</strong>
+<i>(Model ID: e3a40bc3-3aee-451f-93ab-2d7e31a1e690)</i><br>
 <ol>
   <li>Go to IBM Cloud and create the IBM Watson Studio service. </li>
   <li>Create New Project and add Watson – Visual Recognition as an Associated service.  </li>
