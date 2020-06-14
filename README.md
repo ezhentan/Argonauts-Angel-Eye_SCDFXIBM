@@ -8,7 +8,7 @@ SCDF x IBM Hackathon submission for Team Argonauts
 * [Detailed Solution](#Detailed-Solution)
 * [Getting started](#How-will-you-use-the-software?)
 * [What we used](#What-we-used)
-* [Acknowledgements](#Acknowledgments)
+* [Acknowledgements](#Acknowledgements)
 
 # Proposal
 ## Short description
