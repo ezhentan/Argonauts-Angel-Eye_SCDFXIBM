@@ -15,7 +15,7 @@ Source: https://sgtrafficwatch.org/#
 <p align="justify">For example, Lornie Highway was identified as an accident prone road as it faces heavy traffic during peak hours where there have been many past accidents. However, they do not have a traffic camera installed along that stretch. Other examples may include silver zones where there have been past accidents involving elderly pedestrians. This mapping of traffic cameras can help us better understand which are more vulnerable areas which require more attention from SCDF in the event of a major accident.</p> 
 
 ### Subsection 1.2
-<p align="justify">We will use our custom-trained models to detect serious accidents that require emergency response from SCDF. Using IBM Cloud Object Storage instance, we will store 200 images of different road accidents with different labels to prepare the data for training. There will be **five** main categories of major accidents:</p>
+<p align="justify">We will use our custom-trained models to detect serious accidents that require emergency response from SCDF. Using IBM Cloud Object Storage instance, we will store 200 images of different road accidents with different labels to prepare the data for training. There will be five main categories of major accidents:</p>
 
 1. Vehicle on fire/smoking
 2. Overturned Light Vehicle (Car/Van/Small Truck)
