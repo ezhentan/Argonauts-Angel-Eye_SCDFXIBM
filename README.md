@@ -45,6 +45,26 @@ According to a news article published by [The Straits Times](https://www.straits
 
 # How will you use the software?
 
+<strong>First function: Traffic Accident Monitor</strong>
+<ol>
+  <li>Create the IBM Watson Studio and add in the visual recognition service.</li>
+  <li>Launch the Visual Recognition Tool and create an Object Detection Model.</li>
+  <li>Upload images into the model.</li>
+  <li>Set the labels for each image. For our model we have 5 labels.</li>
+    <ul>
+      <li>Crashed-Vehicle</li>
+      <li>Crashed-Motorcycle</li>
+      <li>Fire.Smoke</li>
+      <li>Overturned-Light Vehicle</li>
+      <li>Overturned-Heavy Vehicle</li>
+    </ul>
+*It is recommended to have at least 50 images for each object as it will allow the machine to detect and discern accidents more accurately*<br>
+  <li>Train the model</li>
+  <li>Test the model with a new batch of images that is different from the images used for training</li>
+*This is to ensure the accuracy of the model even with unseen data. 
+  <li>Deployment and integration of the model to our solution</li>
+</ol>
+
 [Back to top](#Argonauts-Solution_SCDFXIBM)
 
 # What we used
