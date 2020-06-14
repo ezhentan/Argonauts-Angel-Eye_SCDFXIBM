@@ -8,12 +8,13 @@ SCDF x IBM Hackathon submission for Team Argonauts
 * [Detailed Solution](#Detailed-Solution)
 * [Getting started](#How-will-you-use-the-software?)
 * [What we used](#What-we-used)
+* [Acknowledgements](#Acknowledgments)
 
 # Proposal
 ## Short description
 
 ### What's the problem? 
-According to a news article published by [The Straits Times](https://www.straitstimes.com/singapore/transport/overall-improvement-in-road-traffic-situation-for-2019-but-more-accidents), it was reported that although fatal accidents and road deaths were at all time low in 2019, there has been an increase in the number of accidents involving eldery pedestrians and motorists. According to statistics, traffic accidents involving eldery pedestrians increased by 33.6 per cent, with the eldery fatality rate increasing by 12.5 per cent in 2019 from 2018. For motorcyclists, the accident rate resulting in injuries rose by 1.9 per cent and motorcyclist and pillion rider fatality rates increased by 3.3 per cent in 2019 from 2018.</p>
+According to a news article published by [The Straits Times](https://www.straitstimes.com/singapore/transport/overall-improvement-in-road-traffic-situation-for-2019-but-more-accidents), it was reported that although fatal accidents and road deaths were at all time low in 2019, there has been an increase in the number of accidents involving eldery pedestrians and motorists. According to statistics (Yusof, 2020), traffic accidents involving eldery pedestrians increased by 33.6 per cent, with the eldery fatality rate increasing by 12.5 per cent in 2019 from 2018. For motorcyclists, the accident rate resulting in injuries rose by 1.9 per cent and motorcyclist and pillion rider fatality rates increased by 3.3 per cent in 2019 from 2018.
 
 <p align="justify">There has also been instances where traffic accidents are unwitnessed or reported only after a period of time which can lead to a delay in emergency resources being activated. SCDF needs to have a better response timing to protect vulnerable road users and ensure that resources are activated efficiently. Currently, the SCDF emergency vehicles are allowed to beat the red light with caution. They have to turn on their blinking lights and sirens and proceed with caution. This will increase the time needed to reach the accident site or hospitals as they do not have a clear wave of green lights.</p>  
 
@@ -58,5 +59,10 @@ According to a news article published by [The Straits Times](https://www.straits
   <li>Watson Assistant Machine Learning</li>
   <li>Cloud Object Storage</li>
 </ol>
+
+[Back to top](#Argonauts-Solution_SCDFXIBM)
+
+# Acknowledgements
+* Yusof, Z. (2020, February 10). Fatal accidents, road deaths at record low in 2019, but more accidents involve elderly and motorcyclists. Retrieved June 14, 2020, from https://www.straitstimes.com/singapore/transport/overall-improvement-in-road-traffic-situation-for-2019-but-more-accidents
 
 [Back to top](#Argonauts-Solution_SCDFXIBM)
